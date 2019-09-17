@@ -24,10 +24,13 @@ Hardware used:
 ESP8266 Web server:
 
 <p float="left">
- <img src="photos/web1.png" width="200"/>
- <img src="photos/web2.png" width="200"/>
- <img src="photos/web3a.png" width="400"/>
+ <img src="photos/web1.png"/>
+ <img src="photos/web2.png"/>
 </p>
+Charts:
+<img src="photos/web3a.png"/>
+<img src="photos/web3b.png"/>
+<img src="photos/web3c.png"/>
 
 
 
