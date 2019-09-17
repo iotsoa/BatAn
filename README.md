@@ -21,7 +21,13 @@ Hardware used:
 - Epever Tracer 2206AN (Solar Charger MPPT 20A)
 - Lithium Battery Packs LiitoKala 24V 12ah (5x) (Lithium Battery Bank, total capacity 1250 wh)
 
+ESP8266 Web server:
 
+<p float="left">
+ <img src="photos/web1.jpg" width="900"/>
+ <img src="photos/web2.jpg" width="900"/>
+ <img src="photos/web3a.jpg" width="900"/>
+</p>
 
 
 
