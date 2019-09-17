@@ -1,12 +1,11 @@
 # BatAn
-Battery Bank Analyzer
+<strong>Battery Bank Analyzer</strong>
 
 This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar installation. It traces current individually for each Battery Pack. It also communicates with solar charger and calculates live values of power going to home and battery bank. It includes a web server with charts, internal historical data, and optionally, uploads data to Thingspeak and Blynk.
 
 
 <img src="photos/collage.jpg" width="900"/>
  
-
 <strong>Hardware used:</strong>
 
 - ESP8266 with OLED display board (Nodemcu, D-Duino?) 
@@ -40,10 +39,12 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
   <img src="photos/web3c.png"/>
   
 <strong>Mobile App with Blynk</strong>
+ 
  <img src="photos/blynk_SS.png"/>
- To import App:
+
  1. Download Blynk App: http://j.mp/blynk_Android or http://j.mp/blynk_iOS
  2. Touch the QR-code icon and point the camera to the code below
+ 
  <img src="photos/blynk_QR.png"/>
 
 
