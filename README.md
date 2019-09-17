@@ -52,6 +52,12 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
  
  <img src="photos/blynk_QR.png"/>
 
+<strong>ThingsPeak</strong>
+Data is uploaded to ThingsPeak database for persistent historical records
+ 
+ <img src="photos/thingspeak.png"/>
+
+
 
 
 
