@@ -1,2 +1,2 @@
-# BatMon
-Battery Bank Monitor  
+# BatAn
+Battery Bank Analyzer
