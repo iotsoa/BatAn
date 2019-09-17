@@ -7,7 +7,8 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
 
 Hardware used:
 
-- ESP8266 with OLED display board (D-Duino?)
+- ESP8266 with OLED display board (Nodemcu, D-Duino?)
+  <img src="photos/dduino.jpg" width="100"/> 
 - DHT11 Inside temperature and Humidity sensor
 - DS18B20 external Temperature Sensor
 - ADS1115 16 bit 4 channel Analog Input Boards (2x) (To read current and voltage sensors)
