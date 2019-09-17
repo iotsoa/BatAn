@@ -24,18 +24,21 @@ Hardware used:
 
 ESP8266 Web server:
 
-- Raw Measures & Power Distribution from Photovoltaic Panels to Home, Battery Bank and Packs.
-<p float="left">
- <img src="photos/web1.png"  width="400"/>
- <img src="photos/web2.png"  width="400"/>
-</p>
+- Raw Measures from current meters and modbus Communication with charger:
+  <img src="photos/web1.png"/>
 
- -Charts:
-<img src="photos/web3a.png"/> Live Data
-<img src="photos/web3b.png"/> Historical Data
-<img src="photos/web3c.png"/> Selected View (Bank & Packs)
+- Power Distribution from Photovoltaic Panels to Home, Battery Bank and Packs:
+  <img src="photos/web2.png"/>
 
-
+- Chart Live Data:
+  <img src="photos/web3a.png"/>
+  
+- Chart Historical Data:
+  <img src="photos/web3b.png"/>
+  
+- Chart Historical Data Selected View (Bank & Packs):
+  <img src="photos/web3c.png"/>
+  
 
 
 
