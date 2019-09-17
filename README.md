@@ -5,7 +5,7 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
 
 
 <img src="photos/collage.jpg" width="900"/>
- 
+
 <strong>Hardware used:</strong>
 
 - ESP8266 with OLED display board (Nodemcu, D-Duino?) 
@@ -15,11 +15,12 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
 - ACS712 5V 20A Hall Effect current meters (5x)
 - Voltage Sensor <25V Voltage Divider 5V
 - DC-DC Voltage Converter Step-down Module 4-24V->5V (To supply ESP8266 board)
-- Solid State Relay Module (optional, to control an AC Load via Web)
+- Solid State Relay Module (optional, to control an AC Load via Web) (*)
 - TTL-to-RS485 Converter Module 3.3V-5V (To communicate with Solar Charger)
 - Epever Tracer 2206AN (Solar Charger MPPT 20A)
 - Lithium Battery Packs LiitoKala 24V 12ah (5x) (Lithium Battery Bank, total capacity 1250 wh)
 
+(*) In pics is a regular relay but it was changed because coil interfered with hall current detectors.
 
 <strong>ESP8266 Web server:</strong>
 
@@ -53,9 +54,13 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
  <img src="photos/blynk_QR.png"/>
 
 <strong>ThingsPeak</strong>
+
 Data is uploaded to ThingsPeak database for persistent historical records
  
  <img src="photos/thingspeak.png"/>
+
+---------------------------------------------------------------
+This project is part of an experiment, to check the behaviour and lifetime of Li-ion battery packs (BMS included) connected in parallel in a solar installation. Lithium Chemistry used is not LiFePo4 3.65V/Cell , recommended for solar installations, but regular Li-ion batteries 4.2V/Cell, with more capacity and also risks.
 
 
 
