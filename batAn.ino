@@ -827,6 +827,8 @@ ESP8266WebServer server(80);
 String sjson;
 
 String jsr(String k, String v) {return "\"" + k + "\":\"" + v + "\"";}//Json register string
+String jsr(String k, int v)  {return "\"" + k + "\":" + String(v) ;}//Json register integer as number
+String jsr(String k, unsigned int v)  {return "\"" + k + "\":" + String(v) ;}//Json register unsigned integer as number
 String jsr(String k, float v)  {return "\"" + k + "\":\"" + String(v) +"\"" ;}//Json register number as string
 String jsr(String k, float v, int d)  {return "\"" + k + "\":\"" + String(v,d) + "\"" ;}//Json register number d decimals as string
 
