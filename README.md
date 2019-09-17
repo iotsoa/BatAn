@@ -7,7 +7,7 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
 <img src="photos/collage.jpg" width="900"/>
  
 
-Hardware used:
+<strong>Hardware used:</strong>
 
 - ESP8266 with OLED display board (Nodemcu, D-Duino?) 
 - DHT11 Inside temperature and Humidity sensor
@@ -22,7 +22,7 @@ Hardware used:
 - Lithium Battery Packs LiitoKala 24V 12ah (5x) (Lithium Battery Bank, total capacity 1250 wh)
 
 
-ESP8266 Web server:
+<strong>ESP8266 Web server:</strong>
 
 - Raw Measures from current meters and modbus Communication with charger:
   <img src="photos/web1.png"/>
@@ -39,6 +39,12 @@ ESP8266 Web server:
 - Chart Historical Data Selected View (Bank & Packs):
   <img src="photos/web3c.png"/>
   
+<strong>Mobile App with Blynk</strong>
+ <img src="photos/blynk_SS.png"/>
+ To import App:
+ 1. Download Blynk App: http://j.mp/blynk_Android or http://j.mp/blynk_iOS
+ 2. Touch the QR-code icon and point the camera to the code below
+ <img src="photos/blynk_QR.png"/>
 
 
 
