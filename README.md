@@ -22,14 +22,18 @@ Hardware used:
 - Lithium Battery Packs LiitoKala 24V 12ah (5x) (Lithium Battery Bank, total capacity 1250 wh)
 
 ESP8266 Web server:
-
+ - Raw Measures & Power Balance from Photovoltaic Panels, to Home, Battery Bank & Packs.
 <p float="left">
- <img src="photos/web1.png"/>
- <img src="photos/web2.png"/>
+ <img src="photos/web1.png"  width="400"/>
+ <img src="photos/web2.png"  width="400"/>
 </p>
-Charts:
+
+ -Charts:
+  Live Data.
 <img src="photos/web3a.png"/>
+  Historical Data.
 <img src="photos/web3b.png"/>
+  View Power Bank & Batteries Individually 
 <img src="photos/web3c.png"/>
 
 
