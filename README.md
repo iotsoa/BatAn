@@ -63,8 +63,9 @@ Data is uploaded to ThingsPeak database for persistent historical records
 ---------------------------------------------------------------
 <strong>Notes about the program</strong>
 
-Special libraries used in program:
+Special libraries used:
 
+- Adafruit_ADS1015 (Analog Inputs) https://github.com/adafruit/Adafruit_SSD1306
 - NtpClientLib (NTP Client with DST support) https://github.com/gmag11/NtpClient 
 - TimeLib (Time functions) https://github.com/PaulStoffregen/Time
 - Adafruit SSD1306 (OLED Display Driver) https://github.com/adafruit/Adafruit_SSD1306
