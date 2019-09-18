@@ -25,7 +25,7 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
 
 <strong>ESP8266 embedded Web server:</strong>
 
-- Raw Measures from current meters and modbus Communication with charger. It is possible to control   an AC Solid State Relay and DC Load output in solar charger:
+- Raw Measures from current meters and modbus Communication with charger. It is possible to control   an AC Solid State Relay and DC Load output in solar charger, also to enable/disable Blynk or Modbus communications.
 
   <img src="photos/web1.png"/>
 
