@@ -60,6 +60,19 @@ Data is uploaded to ThingsPeak database for persistent historical records
  
  <img src="photos/thingspeak.png"/>
  
+---------------------------------------------------------------
+<strong>Notes about the program</strong>
+
+Special libraries used in program:
+
+- NtpClientLib (NTP Client with DST support) https://github.com/gmag11/NtpClient 
+- TimeLib (Time functions) https://github.com/PaulStoffregen/Time
+- Adafruit SSD1306 (OLED Display Driver) https://github.com/adafruit/Adafruit_SSD1306
+- RemoteDebug (Telnet debug logs) https://github.com/JoaoLopesF/RemoteDebug
+- Modbus Master https://github.com/4-20ma/ModbusMaster
+
+For Modbus RS485 comms with Tracer, these references have been very useful: https://github.com/dpoulson/EPSolar
+https://github.com/jaminNZx/Tracer-RS485-Modbus-Blynk
 
 ---------------------------------------------------------------
 This project is part of an experiment, to check the behaviour and lifetime of Li-ion battery packs (BMS included) connected in parallel in a solar installation. Lithium Chemistry used is not LiFePo4 3.65V/Cell , recommended for solar installations, but regular Li-ion batteries 4.2V/Cell, with more capacity and also risks. As can be seen in photos Battery Packs are inside safety bags bellow Battery Analyzer and everything is in the roof. 
