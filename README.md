@@ -20,7 +20,7 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
 - Epever Tracer 2206AN (Solar Charger MPPT 20A)
 - Lithium Battery Packs LiitoKala 24V 12ah 6S6P (5x) (Lithium Battery Bank, total capacity 1250 wh)
 
-(*1) Current sensors are rated 20A but probably it's to much for sensor board. There are thermal switches for each battery pack limiting current to 10A. 5x10 = 50A, aprox. 1000 Watts maximum power.  
+(*1) Current sensors are rated 20A but probably it's too much for sensor board. There are thermal switches for each battery pack limiting current to 10A. 5x10 = 50A, aprox. 1000 Watts maximum power.  
 (*2) In pics is a regular relay but it was changed because coil interfered with hall current detectors.
 
 <strong>ESP8266 embedded Web server:</strong>
@@ -64,6 +64,6 @@ Data is uploaded to ThingsPeak database for persistent historical records
 ---------------------------------------------------------------
 This project is part of an experiment, to check the behaviour and lifetime of Li-ion battery packs (BMS included) connected in parallel in a solar installation. Lithium Chemistry used is not LiFePo4 3.65V/Cell , recommended for solar installations, but regular Li-ion batteries 4.2V/Cell, with more capacity and also risks. As can be seen in photos Battery Packs are inside safety bags bellow Battery Analyzer and everything is in the roof. 
 
-Solar Controller (Tracer 2206AN) choosen settings to charge these battery packs can be seen at  <a href="tracer.txt">Tracer Settings</a>
+Solar Controller (Tracer 2206AN) chosen settings to charge these battery packs can be seen at  <a href="tracer.txt">Tracer Settings</a>
 
 
