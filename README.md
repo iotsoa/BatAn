@@ -18,7 +18,7 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
 - Solid State Relay Module (optional, to control an AC Load via Web) (*2)
 - TTL-to-RS485 Converter Module 3.3V-5V (To communicate with Solar Charger)
 - Epever Tracer 2206AN (Solar Charger MPPT 20A)
-- Lithium Battery Packs LiitoKala 24V 12ah (5x) (Lithium Battery Bank, total capacity 1250 wh)
+- Lithium Battery Packs LiitoKala 24V 12ah 6S6P (5x) (Lithium Battery Bank, total capacity 1250 wh)
 
 (*1) Current sensors are rated 20A but probably is to much for sensor board. There are thermal switches for each battery pack limiting current to 10A. 5x10 = 50A, aprox. 1000 Watts maximum power.  
 (*2) In pics is a regular relay but it was changed because coil interfered with hall current detectors.
@@ -60,6 +60,7 @@ Data is uploaded to ThingsPeak database for persistent historical records
  
  <img src="photos/thingspeak.png"/>
  
+
 ---------------------------------------------------------------
 This project is part of an experiment, to check the behaviour and lifetime of Li-ion battery packs (BMS included) connected in parallel in a solar installation. Lithium Chemistry used is not LiFePo4 3.65V/Cell , recommended for solar installations, but regular Li-ion batteries 4.2V/Cell, with more capacity and also risks. As can be seen in photos Battery Packs are inside safety bags bellow Battery Analyzer and everything is in the roof.
 
