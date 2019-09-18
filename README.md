@@ -20,7 +20,7 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
 - Epever Tracer 2206AN (Solar Charger MPPT 20A)
 - Lithium Battery Packs LiitoKala 24V 12ah 6S6P (5x) (Lithium Battery Bank, total capacity 1250 wh)
 
-(*1) Current sensors are rated 20A but probably is to much for sensor board. There are thermal switches for each battery pack limiting current to 10A. 5x10 = 50A, aprox. 1000 Watts maximum power.  
+(*1) Current sensors are rated 20A but probably it's to much for sensor board. There are thermal switches for each battery pack limiting current to 10A. 5x10 = 50A, aprox. 1000 Watts maximum power.  
 (*2) In pics is a regular relay but it was changed because coil interfered with hall current detectors.
 
 <strong>ESP8266 embedded Web server:</strong>
