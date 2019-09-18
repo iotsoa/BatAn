@@ -59,9 +59,9 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
 Data is uploaded to ThingsPeak database for persistent historical records
  
  <img src="photos/thingspeak.png"/>
-
+ 
 ---------------------------------------------------------------
-This project is part of an experiment, to check the behaviour and lifetime of Li-ion battery packs (BMS included) connected in parallel in a solar installation. Lithium Chemistry used is not LiFePo4 3.65V/Cell , recommended for solar installations, but regular Li-ion batteries 4.2V/Cell, with more capacity and also risks. As can be seen in photos Battery Packs are inside safety bags bellow Battery Analyzer.
+This project is part of an experiment, to check the behaviour and lifetime of Li-ion battery packs (BMS included) connected in parallel in a solar installation. Lithium Chemistry used is not LiFePo4 3.65V/Cell , recommended for solar installations, but regular Li-ion batteries 4.2V/Cell, with more capacity and also risks. As can be seen in photos Battery Packs are inside safety bags bellow Battery Analyzer and everything is in the roof.
 
 
 
