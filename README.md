@@ -62,7 +62,7 @@ Data is uploaded to ThingsPeak database for persistent historical records
 
 ---------------------------------------------------------------
 
-<strong>Schematic</strong> <a href="schematic/schem.pdf">see schematic</a>
+<strong>Schematic</strong> <a href="schematic/">see schematic files</a>
 
 <a href="schematic/schem.svg"><img src="schematic/schem.svg"  width="500"/></a>
 
