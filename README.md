@@ -59,7 +59,11 @@ This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar i
 Data is uploaded to ThingsPeak database for persistent historical records
  
  <img src="photos/thingspeak.png"/>
- 
+---------------------------------------------------------------
+<strong>Schematic</strong>
+
+<img src="schematic/schem_mini.png"/>
+
 ---------------------------------------------------------------
 <strong>Notes about the program</strong>
 
