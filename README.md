@@ -83,7 +83,7 @@ For Modbus RS485 comms with Tracer, these references have been very useful: http
 https://github.com/jaminNZx/Tracer-RS485-Modbus-Blynk
 
 ---------------------------------------------------------------
-This project is part of an experiment, to check the behaviour and lifetime of Li-ion battery packs (BMS included) connected in parallel in a solar installation. Lithium Chemistry used is not LiFePo4 3.65V/Cell , recommended for solar installations, but regular Li-ion batteries 4.2V/Cell, with more capacity and also risks. As can be seen in photos Battery Packs are inside safety bags bellow Battery Analyzer and everything is in the roof. 
+This project is part of an experiment, to check the behaviour and lifetime of Li-ion battery packs (BMS included) connected in parallel in a solar installation. Lithium Chemistry used is not LiFePo4 3.65V/Cell , recommended for solar installations, but regular Li-ion batteries 4.2V/Cell, with more capacity and also risks. As can be seen in photos Battery Packs are inside safety bags bellow <strong>Battery Analyzer</strong> and everything is in the roof. 
 
 Solar Controller (Tracer 2206AN) chosen settings to charge these battery packs can be seen at  <a href="tracer.txt">Tracer Settings</a>
 
