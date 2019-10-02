@@ -1,5 +1,5 @@
 # BatAn
-<strong>Solar and Battery Bank Monitoring</strong>
+<strong>Solar and Battery Bank Monitoring</strong> <strong>(IoT)</strong>
 
 This is a project to monitor a Battery Bank (Lithium Battery Packs) in a solar installation. It traces current individually for each Battery Pack. It also communicates with solar charger and calculates live values of power going to home and battery bank. It includes a web server with charts, internal historical data, and optionally, uploads data to Thingspeak and Blynk.
 
