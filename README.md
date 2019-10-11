@@ -91,4 +91,6 @@ Solar Controller (Tracer 2206AN) chosen settings to charge these battery packs c
 <ul>
 <li><a href="https://circuitdigest.com/microcontroller-projects/iot-based-lithium-battery-monitoring-system">Circuit Digest. iot-based-lithium-battery-monitoring-system</a></li>
 <li><a href="https://fritzing.org/projects/solar-and-battery-bank-monitoring">Fritzing. Solar-and-battery-bank-monitoring</a></li>
+<li><a href="https://www.hackster.io/iotsoa/battery-bank-analyzer-af06d2">Hackster.io. Battery Bank Analyzer</a></li>
 </ul>
+
