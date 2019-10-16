@@ -87,7 +87,7 @@ This project is part of an experiment, to check the behaviour and lifetime of Li
 
 Solar Controller (Tracer 2206AN) chosen settings to charge these battery packs can be seen at  <a href="tracer.txt">Tracer Settings</a>
 
-<strong>More info about the proyect in external links</strong> 
+<strong>More info about the project in external links</strong> 
 <ul>
 <li><a href="https://circuitdigest.com/microcontroller-projects/iot-based-lithium-battery-monitoring-system">Circuit Digest. iot-based-lithium-battery-monitoring-system</a></li>
 <li><a href="https://fritzing.org/projects/solar-and-battery-bank-monitoring">Fritzing. Solar-and-battery-bank-monitoring</a></li>
